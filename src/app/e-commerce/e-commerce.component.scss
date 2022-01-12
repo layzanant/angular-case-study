@@ -1,0 +1,18 @@
+.products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gridview {
+    flex: 1 1 20%;
+    background-color: whitesmoke;
+    border: black solid 2px;
+    margin: 16px;
+}
+
+.listview {
+    flex: 1 1 40%;
+    background-color: whitesmoke;
+    border: black solid 2px;
+    margin: 8px;
+}

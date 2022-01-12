@@ -1,0 +1,27 @@
+<div fxLayout="column">
+    <div fxLayout="row" fxLayoutAlign="space-between center">
+        <div>Products List</div>
+        <div fxLayout="row" fxLayoutAlign="end center">
+            <button mat-icon-button color="primary" aria-label="Grid View" (click)="displayGrid = true">
+                <mat-icon>grid_on</mat-icon>
+            </button>
+            <button mat-icon-button color="warn" aria-label="List View" (click)="displayGrid = false">
+                <mat-icon>view_list</mat-icon>
+            </button>
+            <select [(ngModel)]="selectedFilter" (ngModelChange)="filterProducts()">
+                <option *ngFor="let price of priceFilter" [value]="price.key">
+                    {{ price.value }}</option>
+            </select>
+        </div>
+    </div>
+    <div class="products">
+        <div fxLayout="column" fxLayoutAlign="space-evenly center" *ngFor="let data of filteredProducts"
+            [ngClass]="{'gridview': displayGrid, 'listview': !displayGrid}">
+            <img [src]="data.imgSrc" width="200" />
+            <h1>{{ data.productname }}</h1>
+            <div>
+                Price: Rs {{ data.price }}
+            </div>
+        </div>
+    </div>
+</div>

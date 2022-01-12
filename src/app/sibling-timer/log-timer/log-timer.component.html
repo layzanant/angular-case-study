@@ -1,0 +1,6 @@
+<div fxLayout="column" fxLayoutGap="4px" class="bold">
+    <ng-container *ngFor="let startPause of startPauseMap">
+    <div *ngIf="startPause.key=='s'">Started at {{ startPause.date | date:'dd-mm-yyyy hh:mm:ss a' }}</div>
+    <div *ngIf="startPause.key=='p'">Paused at {{ startPause.date | date:'dd-mm-yyyy hh:mm:ss a' }}</div>
+    </ng-container>
+</div>

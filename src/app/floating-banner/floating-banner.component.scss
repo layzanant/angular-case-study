@@ -1,0 +1,12 @@
+.border {
+    padding: 16px;
+    border: 2px solid black;
+}
+.rotate {
+    animation: rotate 6s linear infinite;
+}
+@keyframes rotate {
+    to {
+        transform: rotate(360deg);
+    }
+}

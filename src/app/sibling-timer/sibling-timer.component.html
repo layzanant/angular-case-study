@@ -1,0 +1,20 @@
+<div fxLayout="column" fxLayoutGap="16px">
+    <div fxLayout="row" fxLayoutGap="16px">
+        <div fxFlex="40" class="border padding-timer">
+            <app-timer [timerCount]="timerCount"></app-timer>
+        </div>
+        <div class="border padding-start-pause" fxFlex>
+            <app-timer-start-pause (startPauseEmitter)="startPauseMap = $event" (startEmit)="start = $event"
+                (pauseEmit)="pause = $event" (timerCountEmit)="timerCount = $event">
+            </app-timer-start-pause>
+        </div>
+    </div>
+    <div fxLayout="row" fxLayoutGap="16px">
+        <div fxFlex="40">
+            <app-log-timer [startPauseMap]="startPauseMap"></app-log-timer>
+        </div>
+        <div fxFlex>
+            <app-click-count [start]="start" [pause]="pause"></app-click-count>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+<div fxLayout="column" fxLayoutGap="16px">
+    <div fxLayout="row" fxLayoutGap="4px">
+        <div class="bold">Enter Time Limit</div>
+        <div fxLayout="column" fxLayoutGap="8px">
+            <input matInput [disabled]="isDisabled" [(ngModel)]="timer" type="number"
+                (ngModelChange)="timerCount = timer">
+            <div fxLayout="row" fxLayoutGap="16px">
+                <button mat-flat-button color="primary" (click)="startPause()">Start / Pause</button>
+                <button mat-flat-button color="warn" (click)="reset()">Reset</button>
+            </div>
+        </div>
+    </div>
+    <div fxLayout="column" fxLayoutGap="4px">
+        <ng-container *ngFor="let startPause of startPauseMap">
+            <div class="bold" *ngIf="startPause.key === 'p'">paused at {{ startPause.timer }}</div>
+        </ng-container>
+    </div>
+</div>
