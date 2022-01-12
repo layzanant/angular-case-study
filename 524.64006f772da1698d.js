@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkCaseStudy=self.webpackChunkCaseStudy||[]).push([[524],{5524:(i,u,r)=>{r.r(u),r.d(u,{ServiceTimerModule:()=>s});var o=r(910),d=r(5e3);let s=(()=>{class e{}return e.\u0275fac=function(c){return new(c||e)},e.\u0275mod=d.oAB({type:e}),e.\u0275inj=d.cJS({providers:[],imports:[[o.m]]}),e})()}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkCaseStudy=self.webpackChunkCaseStudy||[]).push([[843],{7843:(s,u,l)=>{l.r(u),l.d(u,{SiblingTimerModule:()=>d});var n=l(910),i=l(5e3);let d=(()=>{class e{}return e.\u0275fac=function(r){return new(r||e)},e.\u0275mod=i.oAB({type:e}),e.\u0275inj=i.cJS({providers:[],imports:[[n.m]]}),e})()}}]);

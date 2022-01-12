@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkCaseStudy=self.webpackChunkCaseStudy||[]).push([[577],{4577:(r,d,t)=>{t.r(d),t.d(d,{StudentMarksModule:()=>n});var s=t(910),e=t(5e3);let n=(()=>{class u{}return u.\u0275fac=function(o){return new(o||u)},u.\u0275mod=e.oAB({type:u}),u.\u0275inj=e.cJS({providers:[],imports:[[s.m]]}),u})()}}]);

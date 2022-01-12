@@ -1,0 +1,202 @@
+[
+    {
+        "productname": "Product 1",
+        "price": 5000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 2",
+        "price": 800,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 3",
+        "price": 15000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 4",
+        "price": 10000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 5",
+        "price": 12000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 6",
+        "price": 200,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 7",
+        "price": 16000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 8",
+        "price": 1000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 9",
+        "price": 350,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 10",
+        "price": 30000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 11",
+        "price": 2000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 12",
+        "price": 4000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 13",
+        "price": 25000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 14",
+        "price": 14000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 15",
+        "price": 18000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 16",
+        "price": 8000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 17",
+        "price": 1100,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 18",
+        "price": 2200,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 19",
+        "price": 3300,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 20",
+        "price": 4400,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 21",
+        "price": 5500,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 22",
+        "price": 6600,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 23",
+        "price": 7700,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 24",
+        "price": 8800,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 25",
+        "price": 9900,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 26",
+        "price": 11000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 27",
+        "price": 12100,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 28",
+        "price": 13200,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 29",
+        "price": 14300,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 30",
+        "price": 15400,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 31",
+        "price": 16500,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 32",
+        "price": 17600,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 33",
+        "price": 18700,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 34",
+        "price": 19800,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 35",
+        "price": 18000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 36",
+        "price": 22000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 37",
+        "price": 28000,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 38",
+        "price": 8400,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 39",
+        "price": 750,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "productname": "Product 40",
+        "price": 1500,
+        "imgSrc": "http://placehold.it/300x300/999/CCC"
+    }
+]

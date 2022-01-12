@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkCaseStudy=self.webpackChunkCaseStudy||[]).push([[862],{8862:(r,e,a)=>{a.r(e),a.d(e,{FloatingBannerModule:()=>u});var l=a(910),o=a(5e3);let u=(()=>{class n{}return n.\u0275fac=function(d){return new(d||n)},n.\u0275mod=o.oAB({type:n}),n.\u0275inj=o.cJS({providers:[],imports:[[l.m]]}),n})()}}]);

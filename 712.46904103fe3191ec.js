@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkCaseStudy=self.webpackChunkCaseStudy||[]).push([[712],{7712:(c,u,o)=>{o.r(u),o.d(u,{ECommerceModule:()=>r});var m=o(910),d=o(5e3);let r=(()=>{class e{}return e.\u0275fac=function(l){return new(l||e)},e.\u0275mod=d.oAB({type:e}),e.\u0275inj=d.cJS({providers:[],imports:[[m.m]]}),e})()}}]);
